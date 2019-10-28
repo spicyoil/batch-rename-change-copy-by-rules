@@ -1,7 +1,7 @@
 # file-dir-batch-rename-copy  
 #  
 #Be careful I only test them in Python2  
-#  
+#All scripts only works on current directory  
 #target_keyword :is used to search the files/dirs which match  
 #add: can only to add string in the end
 #  
