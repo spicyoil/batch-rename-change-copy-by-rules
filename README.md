@@ -1,4 +1,4 @@
-# file-dir-batch-rename-copy  
+# batch rename/modify context/copy files/dirs byrules
 #  
 #Be careful I only test them in Python2  
 #All scripts only works on current directory  
