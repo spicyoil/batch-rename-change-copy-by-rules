@@ -1,17 +1,17 @@
 # batch rename/modify context/copy files/dirs by rules
 #  
 
-#change_contents_script.py  
+#change_contents_script.py  #used only for files
 #usage: .py target_keyword  replace  newword oldword  
 #usage: .py target_keyword  delete   newword   
   
   
-#change_name_script.py	   
+#change_name_script.py	    #used for files and dirs
 #usage: .py target_keyword  replace  newword oldword   
 #usage: .py target_keyword  delete   oldword   
 #usage: .py target_keyword  add      newword   
   
-#copy_file_script.py  
+#copy_file_script.py    #used only for dirs
 #usage: .py target_keyword  replace  newword oldword   
 #usage: .py target_keyword  delete   oldword  
 #usage: .py target_keyword  add      newword   
