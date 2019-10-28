@@ -12,11 +12,11 @@
   
 #change_name_script.py	   
 #usage: .py target_keyword  replace  newword oldword   
-#usage: .py target_keyword  delete   newword   
+#usage: .py target_keyword  delete   oldword   
 #usage: .py target_keyword  add      newword   
   
 #copy_file_script.py  
 #usage: .py target_keyword  replace  newword oldword   
-#usage: .py target_keyword  delete   newword  
+#usage: .py target_keyword  delete   oldword  
 #usage: .py target_keyword  add      newword   
   
